@@ -1,6 +1,6 @@
 ### React Weather Dashboard
 
-![wxcscreenshot](/src/01.png)
+![wxcscreenshot](/src/1.jpg)
 
 ### Description
 
@@ -13,9 +13,6 @@ _Apis_,
 _Geolocation Api_,
 _localStorage,_
 _Moment.js_,
-_AJAX Calls_,
-_JSON_,
-_Bootstrap_
 
 ### Technologies-Libraries
 
@@ -23,8 +20,3 @@ _Bootstrap_
 - [React](https://reactjs.org/) - JavaScript Library
 - [Moment.js](https://momentjs.com/) - JavaScript Library
 - [OpenWeather](https://openweathermap.org/current/) - Weather API
-
-### Link to Deployed Application
-
-Check it out!  
-[https://shrouded-sea-44886.herokuapp.com/]
