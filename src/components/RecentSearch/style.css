@@ -1,0 +1,24 @@
+.recentSearchDiv {
+  margin-left: -150px;
+}
+
+.recentTitle {
+  font-family: "Poppins", sans-serif;
+  color: #464646;
+  font-size: 13px;
+}
+
+.recentSearchBtn {
+  text-transform: capitalize;
+  margin-bottom: 4px;
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+  font-size: 14px;
+
+  width: 120px;
+  color: #464646;
+}
+.recentSearchBtn:hover {
+  box-shadow: #464646 0px 2px 5px;
+}

@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+.jumbotronContainer {
+  margin-top: 50px;
+  border-bottom: solid 2px silver;
+  padding: 20px;
+}
+
+.iconDiv {
+  color: white;
+}
+
+i {
+  color: rgb(255, 254, 254);
+}
+
+.cityName {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 55px;
+  margin-bottom: 0;
+  font-weight: lighter;
+}
+.temperature {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 55px;
+  font-weight: lighter;
+  margin-bottom: 0px;
+}
+
+.temperature-p {
+  font-family: "Poppins", sans-serif;
+  color: wheat;
+  font-size: 14px;
+  margin-top: 0px;
+}
+
+.humidity,
+.wind,
+.uvIndex {
+  color: wheat;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  margin-bottom: 1px;
+}
+
+.today {
+  font-size: 20px;
+  color: wheat;
+  margin-bottom: 0;
+  font-family: "Poppins", sans-serif;
+}
+.todayDate {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  color: wheat;
+}
+
+@media screen and (max-width: 600px) {
+  .cityName {
+    font-size: 30px;
+
+    font-weight: lighter;
+  }
+
+  .today {
+    font-size: 16px;
+  }
+  .todayDate {
+    font-size: 13px;
+  }
+  .temperature {
+    font-size: 30px;
+    font-weight: lighter;
+  }
+
+  .temperature-p {
+    font-size: 13px;
+  }
+  .imgURL {
+    font-size: 1em;
+  }
+}
