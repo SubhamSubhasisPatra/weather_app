@@ -38,7 +38,7 @@ export default {
     );
   },
 
-  // get news data on each country 
+  // get news data on each country from the news api 
   getNews: function(country) {
     return null
   }
