@@ -36,5 +36,10 @@ export default {
         lon +
         "&units=imperial&appid=9ff2356a02ea9802929dcef5b6128c26"
     );
+  },
+
+  // get news data on each country 
+  getNews: function(country) {
+    return null
   }
 };
