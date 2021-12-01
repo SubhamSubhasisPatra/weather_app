@@ -1,8 +1,9 @@
 https://newsapi.org/register 
 
-
+// user name for newsapi.org
 wilekop245@kyrescu.com 
 
 test@123 -> password 
 
+// API Token of the site 
 5c008435eb20409aba7ad46b7f930989
